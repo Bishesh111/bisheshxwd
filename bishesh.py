@@ -1,8 +1,8 @@
-#!/usr/bin/python
+#!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To Robin Hossain
+#The Credit For This Code Goes To bishesh
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
-#Reserved2020
+#Reserved2023
 
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
